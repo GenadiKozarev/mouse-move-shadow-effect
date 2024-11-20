@@ -4,6 +4,7 @@ html {
 
 body {
     margin: 0;
+    background-color: #38618c;
 }
 
 .hero {
@@ -16,4 +17,5 @@ body {
 h1 {
     text-shadow: 10px 10px 0 rgba(0, 0, 0, 0.5);
     font-size: 100px;
+    text-align: center;
 }
